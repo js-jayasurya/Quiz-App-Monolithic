@@ -1,1 +1,1 @@
-
+This Quiz App is built as a unified Spring Boot monolith, integrating question management, user logic, and scoring into a single codebase. It features a layered architecture with a shared relational database, designed for simplicity and rapid deployment, serving as the foundational codebase for my subsequent microservices migration.
